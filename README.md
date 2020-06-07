@@ -1,5 +1,5 @@
 # background_generator
-The background generator helps us to choose a desired color and it species the value of that color which we can be use for styling the webpages.
+The background generator helps us to choose a desired color and it species the value of that color which we can use for styling the webpages.
 
 ## Technologies used
 * HTML
